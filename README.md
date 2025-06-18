@@ -80,4 +80,4 @@ I'm a passionate software developer specializing in backend development and buil
 
 <br/>
 
-[![@karenkj9000's Holopin board](https://holopin.io/api/user/board?user=karenkj9000)](https://holopin.io/@karenkj9000)
+[![An image of @karenkj9000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karenkj9000)](https://holopin.io/@karenkj9000)
