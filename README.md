@@ -70,4 +70,14 @@ I'm a passionate software developer specializing in backend development and buil
 
 ---
 
+### Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=karenkj9000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenkj9000&layout=donut&langs_count=8&hide_border=true&theme=tokyonight)](https://github.com/karenkj9000/github-readme-stats)
+
+---
+
+<br/>
+
 [![@karenkj9000's Holopin board](https://holopin.io/api/user/board?user=karenkj9000)](https://holopin.io/@karenkj9000)
