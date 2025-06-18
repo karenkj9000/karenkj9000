@@ -10,7 +10,7 @@ I'm a passionate software developer specializing in backend development and buil
 
 <div style="display: flex; justify-content: space-around">
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />    
 
@@ -19,7 +19,6 @@ I'm a passionate software developer specializing in backend development and buil
 <img  align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />   
 
 </div>
-<br />
 <br />
 <br />
 
