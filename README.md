@@ -19,6 +19,9 @@ I'm a passionate software developer specializing in backend development and buil
 <img  align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />   
 
 </div>
+<br />
+<br />
+<br />
 
 ### Frameworks & Libraries
 
@@ -37,6 +40,9 @@ I'm a passionate software developer specializing in backend development and buil
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 
 </div>
+<br />
+<br />
+<br />
         
 ### Tools & Platforms    
 
@@ -58,7 +64,9 @@ I'm a passionate software developer specializing in backend development and buil
           
              
 </div>
-<br/>
+<br />
+<br />
+<br />
 
 ---
 
